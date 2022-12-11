@@ -1,0 +1,41 @@
+[
+  {
+    "heading": "What if famous brands had regular fonts? Meet RegulaBrands!",
+    "details": "Since the Golden Era of UX, paying mind to the users experience has become a given. Very few CEO’s have to be convinced of the importance of designing enjoyable interactions and creating high-quality designs has become more accessible to crossover professions and entry-level designers.",
+    "category": "Article",
+    "authorName": "Sarthak Sharma",
+    "authorImage": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782348/06-min_pkheja.jpg",
+    "views": "1.4k",
+    "image": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1670700318/img1_ditpv0.png"
+  },
+  {
+    "heading": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+    "details": "Since the Golden Era of UX, paying mind to the users experience has become a given. Very few CEO’s have to be convinced of the importance of designing enjoyable interactions and creating high-quality designs has become more accessible to crossover professions and entry-level designers.",
+    "category": "Education",
+    "authorName": "Sarah West",
+    "authorImage": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782273/02-min_uygudf.jpg",
+    "views": "1.4k",
+    "image": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1670700355/img2_sgru31.png"
+  },
+  {
+    "heading": "Finance & Investment Elite Social Mixer @Lujiazui",
+    "details": "Since the Golden Era of UX, paying mind to the users experience has become a given. Very few CEO’s have to be convinced of the importance of designing enjoyable interactions and creating high-quality designs has become more accessible to crossover professions and entry-level designers.",
+    "category": "Meetup",
+    "authorName": "Ronal Jones",
+    "authorImage": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782263/03-min_qrqa8s.jpg",
+    "views": "1.4k",
+    "image": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1670700595/img3_pqr9h3.png",
+    "time": "Fri, 12 Oct, 2018",
+    "location": "Ahmedabad, India"
+  },
+  {
+    "heading": "Finance & Investment Elite Social Mixer @Lujiazui",
+    "details": "Since the Golden Era of UX, paying mind to the users experience has become a given. Very few CEO’s have to be convinced of the importance of designing enjoyable interactions and creating high-quality designs has become more accessible to crossover professions and entry-level designers.",
+    "category": "Job",
+    "authorName": "Joseph Gray",
+    "authorImage": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782260/05-min_zu2ijc.jpg",
+    "views": "1.4k",
+    "company": "Innovaccer Analytics Private Ltd.",
+    "location": "Noida, India"
+  }
+]
